@@ -1,8 +1,18 @@
-*.s#?
-*.b#?
-*.l#?
 *~
 *.bak
 *.backup
 *.pro
+
+# Eagle Cad ignore list:
+*.s#?
+*.b#?
+*.l#?
 eagle.epf
+
+# KiCad ignore list:
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.net
+.dsn
