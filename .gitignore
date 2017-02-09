@@ -1,18 +1,13 @@
-*~
-*.bak
-*.backup
-*.pro
-
-# Eagle Cad ignore list:
-*.s#?
-*.b#?
-*.l#?
-eagle.epf
-
-# KiCad ignore list:
+# Ignore list for KiCad
 *.000
 *.bak
 *.bck
 *.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
 *.net
-.dsn
+*.dsn
+*.ses
+*.xml
+*.csv
